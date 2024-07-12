@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+     "local_server": "True",
+      "local_uri": "mysql://root:@localhost/df",
+      "proud_uri": "mysql://root:@localhost/df",
+      "fb_url":"",
+      "tw_url":"",
+      "gh_url":"",
+      "blog_name": "WELCOME",
+      "headname": "DAIRY FARM MANAGEMENT SYSTEM",
+      "user": "test",
+      "password": "test",
+      "login_image": "12.jpeg"
+  
+    }
+  }
